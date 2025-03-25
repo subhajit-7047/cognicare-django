@@ -1,1 +1,1 @@
-# cognicare-django
+# Cognicare-demo
